@@ -1,0 +1,1 @@
+hail_version="0.2.67-ad2cd1523ec9";hail_pip_version="0.2.67"
